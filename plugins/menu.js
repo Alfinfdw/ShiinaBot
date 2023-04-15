@@ -250,7 +250,7 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 `
 const listMessage = {
   text: tek,
-  footer: '⚠️ *Note:* Mohon tidak _SPAM_ saat menggunakan BOT agar tidak di Banned\n\nhttps://saweria.co/nvkenn',
+  footer: '⚠️ *Note:* Mohon tidak _SPAM_ saat menggunakan BOT agar tidak di Banned\n\nhttps://saweria.co/dnnm',
   mentions: await conn.parseMention(tek),
   title: `${htki} *LIST MENU* ${htka}`,
   buttonText: `LIST MENU ⎙`,
@@ -450,7 +450,7 @@ const listMessage = {
     //------- BUTTON DOC WITH EXTERNAL ADS
     // MAMPUS DI ENC :v <- boong dia awokwkwkk 
     
-let url = `${pickRandom(['https://telegra.ph/file/010ac47b98349d553a25d.jpg'])}`
+let url = `${pickRandom(['https://telegra.ph/file/e011d3e898b3a85f694be.jpg'])}`
 
 let buttonMessage= {
 'document':{'url':sgc},
